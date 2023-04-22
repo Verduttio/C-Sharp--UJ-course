@@ -1,0 +1,1 @@
+".\Fabryka\bin\Debug\net5.0\Fabryka.exe" ".\SandwichProcessor\bin\Debug\SandwichProcessor.dll;Pierwsza kanapka!" ".\BeerProcessor\bin\Debug\BeerProcessor.dll;Pierwsze piwo!" ".\SandwichProcessor\bin\Debug\SandwichProcessor.dll;Kanapka Mariusza"

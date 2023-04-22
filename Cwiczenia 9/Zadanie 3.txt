@@ -1,0 +1,1 @@
+Bardziej przypad³a mi technologia WPF poniewa¿ jest bardziej rozbudowana a co za tym idzie ma siê wiêksz¹ kontrolê nad tym co chce siê stworzyæ. Win forms nadaje siê do stworzenia prostej aplikacji na szybko, natomiast WPF pozwala stworzyæ coœ bardziej przemyœlanego i rozbudowanego dziêki swojej z³o¿onoœci.
